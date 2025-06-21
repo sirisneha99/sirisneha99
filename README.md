@@ -4,17 +4,15 @@
 
 
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **iOS develooment**
 
 - 🤝 I’m looking for help with **Getting on the software engineer track**
 
-- 📝 I regularly write articles on [https://medium.com/@nsnehasiri16](https://medium.com/@nsnehasiri16)
-
-- 💬 Ask me about **Python**
+- 📝 I regularly write posts and articles on Linkedin
+- 💬 Ask me about navigating university and trying out new languages 
 
 - 📫 How to reach me **nsnehasiri16@gmail.com**
 
-- ⚡ Fun fact **You only learn as much you allow yourself to**
 
 
 
