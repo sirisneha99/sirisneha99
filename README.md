@@ -2,7 +2,7 @@
 
 ## 🔬 Researcher | 💻 Aspiring Software Engineer | 🎓 University of South Florida
 
-Welcome to my GitHub! I'm a researcher and aspiring software engineer who loves turning data into insights and building solutions that make a real-world impact.
+Welcome to my GitHub! I'm a research assistant at USF and an aspiring software engineer.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a researcher and aspiring software engineer who loves 
 
 🔬 **Current Research**: Working on aging prediction using large-scale health datasets (CLSA, All of Us, BLSA) under Prof. Yu Sun's mentorship at USF. Exploring how intrinsic capacity impacts functional ability in older adults - because data has the power to change lives!
 
-🎯 **Goal**: Seeking SWE internship opportunities where I can bring my research mindset and collaborative spirit to build amazing products.
+🎯 **Goal**: Seeking SWE internship opportunities where I can bring my research mindset and collaborative spirit to build amazing products. I aim to build experience and am willing to work unpaid as a volunteer , provided the project is impacting people in a positive way.
 
 ---
 
@@ -33,6 +33,8 @@ Welcome to my GitHub! I'm a researcher and aspiring software engineer who loves 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900?style=flat&logo=tensorflow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC382D?style=flat&logo=security&logoColor=white)
 
+Languages : Python, Swift, C++, HTML5, CSS, JavaScript, React
+
 **Research Tools**: Large-scale health datasets (CLSA, All of Us, BLSA), Statistical Analysis, Data Visualization
 
 **Development**: iOS Development, Team Leadership, Collaborative Development, Workshop Design
@@ -52,10 +54,9 @@ Welcome to my GitHub! I'm a researcher and aspiring software engineer who loves 
 I'm **people-centered** and thrive in **fast-paced environments** - I love thinking on my feet, rising to new challenges, and staying energized by meaningful work (and maybe a little boba 🧋 on the side)!
 
 When I'm not coding or analyzing data, you'll find me:
-- 🎤 Leading workshops and empowering fellow students
-- 🤝 Building bridges between research and industry
-- 🌱 Learning new technologies and frameworks
-- ☕ Enjoying good conversations over coffee (or boba!)
+- Leading workshops and empowering fellow students
+- Learning new technologies and frameworks
+- Travelling 
 
 ---
 
