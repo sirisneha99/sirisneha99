@@ -28,10 +28,7 @@ Welcome to my GitHub! I'm a research assistant at USF and an aspiring software e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=flat&logo=jupyter&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-4285F4?style=flat&logo=google-scholar&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900?style=flat&logo=tensorflow&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC382D?style=flat&logo=security&logoColor=white)
 
 Languages : Python, Swift, C++, HTML5, CSS, JavaScript, React
 
