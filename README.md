@@ -1,4 +1,4 @@
-# Hello, I'm Sneha! 👋🧋
+# Hello, I'm Sneha! 🧋
 
 ## 🔬 Researcher | 💻 Aspiring Software Engineer | 🎓 University of South Florida
 
@@ -6,15 +6,15 @@ Welcome to my GitHub! I'm a research assistant at USF and an aspiring software e
 
 ---
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
-🔬 **Current Research**: Working on aging prediction using large-scale health datasets (CLSA, All of Us, BLSA) under Prof. Yu Sun's mentorship at USF. Exploring how intrinsic capacity impacts functional ability in older adults - because data has the power to change lives!
+ **Current Research**: Working on aging prediction using large-scale health datasets (CLSA, All of Us, BLSA) under Prof. Yu Sun's mentorship at USF. Exploring how intrinsic capacity impacts functional ability in older adults - because data has the power to change lives!
 
-🎯 **Goal**: Seeking SWE internship opportunities where I can bring my research mindset and collaborative spirit to build amazing products. I aim to build experience and am willing to work unpaid as a volunteer , provided the project is impacting people in a positive way.
+ **Goal**: Seeking SWE internship opportunities primarily centered aroud iOS app development. I aim to build experience and am willing to work unpaid as a volunteer , provided the project is impacting people in a positive way.
 
 ---
 
-## 💼 Experience & Leadership
+##  Experience & Leadership
 
 - 🏆 **Software Lead** - IEEE Computer Society at USF
 - 🌟 **Active Member** - SHPE and SASE USF chapters
@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a research assistant at USF and an aspiring software e
 
 ---
 
-## 🛠️ Technologies & Skills
+##  Technologies & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
@@ -38,7 +38,7 @@ Languages : Python, Swift, C++, HTML5, CSS, JavaScript, React
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirisneha99&layout=compact&langs_count=7&theme=radical"/>
@@ -46,7 +46,7 @@ Languages : Python, Swift, C++, HTML5, CSS, JavaScript, React
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm **people-centered** and thrive in **fast-paced environments** - I love thinking on my feet, rising to new challenges, and staying energized by meaningful work (and maybe a little boba 🧋 on the side)!
 
@@ -66,13 +66,13 @@ I'm always excited to connect with fellow developers, researchers, and anyone pa
 
 ---
 
-## 🎯 I'm Looking For...
+##  I'm Looking For...
 
-- 🚀 **SWE Internship Opportunities** - Ready to bring research rigor and collaborative energy to your team
-- 🤝 **Technical Team Building** - Love working with diverse, passionate teams
-- 💬 **Tech Conversations** - Always down to discuss the latest in software engineering, data science, or research
+-  **SWE Internship Opportunities** 
+-  **Technical Team Building** - Love working with diverse, passionate teams
+-  **Tech Conversations** - Always down to discuss the latest in software engineering, data science, or research
 
-*"The intersection of research and engineering is where magic happens - let's build something amazing together!"*
+
 
 ---
 
