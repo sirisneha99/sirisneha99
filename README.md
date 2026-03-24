@@ -72,8 +72,9 @@ I'm currently working on these certs 😆
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirisneha99&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirisneha99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 
 
