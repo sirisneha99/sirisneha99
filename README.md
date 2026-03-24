@@ -1,78 +1,107 @@
-# Hello, I'm Sneha! 🧋
+# Hey, I'm Sneha! 🧋
 
-## 🔬 Researcher | 💻 Aspiring Software Engineer | 🎓 University of South Florida
+## 🔴 Red Teamer | 🔐 Cybersecurity Student | 🎓 University of South Florida
 
-Welcome to my GitHub! I'm a research assistant at USF and an aspiring software engineer.
-
----
-
-##  What I'm Up To
-
- **Current Research**: Working on aging prediction using large-scale health datasets (CLSA, All of Us, BLSA) under Prof. Yu Sun's mentorship at USF. Exploring how intrinsic capacity impacts functional ability in older adults - because data has the power to change lives!
-
- **Goal**: Seeking SWE internship opportunities primarily centered aroud iOS app development. I aim to build experience and am willing to work unpaid as a volunteer , provided the project is impacting people in a positive way.
+Welcome to my GitHub! I'm a red team member of USF CyberHerd — competing in national cybersecurity competitions and breaking things (ethically) for a living.
 
 ---
 
-##  Experience & Leadership
+## 🔥 What I'm Up To
 
-- 🏆 **Software Lead** - IEEE Computer Society at USF
-- 🌟 **Active Member** - SHPE and SASE USF chapters
-- 📚 **Workshop Leader** - Empowered 1000+ students over two years with technical skills, industry mentorship, and research opportunities
-- 🎓 **Program Alumni** - CodePath & Headstarter AI (iOS development & cybersecurity focus)
+**Active Competitions**: Competing with USF CyberHerd in **NCAE Cybergames** (National Center for Academic Excellence) and **SEC** (Social Engineering Competition). CyberHerd placed **1st at DEF CON 33 CTF** and **2nd at NCAE Cybergames Southeast Regionals**.
+
+**Research**: Previously preprocessed 10,000+ patient records across CLSA, All of Us, and BLSA datasets at USF's Robotics Perception & Action Lab, building ML pipelines for healthy aging research.
+
+**Goal**: Seeking **cybersecurity internship opportunities** in offensive security, penetration testing, or security engineering.
 
 ---
 
-##  Technologies & Skills
+## 🏆 Highlights
+
+- 🥈 **2nd Place** — NCAE Cybergames Southeast Regionals (march 2026)
+- 🥈 **2nd Place** — AmazonNext ML Accessibility Competition ($2,000 USD, among 50+ North American teams)
+- ⚡ **Top Performer** — Headstarter AI (1 of 1,900+ fellows, won 2 hackathons)
+
+---
+
+## 💼 Experience
+
+- 🔴 **Red Team Member** — USF CyberHerd *(Jan 2026 – Present)*
+- 🔬 **Research Assistant** — USF Robotics Perception & Action Lab *(May–Aug 2025)*
+- 💻 **Software Engineer Intern** — Headstarter AI *(Jul–Aug 2024)*
+
+---
+
+## 🛠️ Technologies & Skills
+
+**Offensive Security**
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+Nmap · Metasploit · Burp Suite · SQLMap · Hashcat · ffuf · Web App Pentesting (SQLi, XSS, Command Injection) · Network Enumeration
+
+**Defensive & Assessment**
+
+TCPdump · Splunk · Wireshark · Timus SASE · ConnectSecure · Rapid7 · Velociraptor · OpenVAS · Nessus
+
+**Languages & Dev**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Research](https://img.shields.io/badge/Research-4285F4?style=flat&logo=google-scholar&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Languages : Python, Swift, C++, HTML5, CSS, JavaScript, React
-
-**Research Tools**: Large-scale health datasets (CLSA, All of Us, BLSA), Statistical Analysis, Data Visualization
-
-**Development**: iOS Development, Team Leadership, Collaborative Development, Workshop Design
+Python · JavaScript · C · HTML5 · CSS3 · React · Node.js · Express.js · REST APIs · Git · Docker · CI/CD
 
 ---
 
-##  GitHub Stats
+## 📜 Certifications
+
+I'm currently working on these certs 😆
+- 🎯 **TCM PJPT** — Practical Junior Penetration Tester
+- ☁️ **AWS Certified Cloud Practitioner**
+- 💻 **HTB** — Hack The Box Modules & Genesis Pro-Labs
+
+---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirisneha99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirisneha99&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+
+
 ---
 
-##  About Me
+## 🙋 About Me
 
-I'm **people-centered** and thrive in **fast-paced environments** - I love thinking on my feet, rising to new challenges, and staying energized by meaningful work (and maybe a little boba 🧋 on the side)!
+I'm **high-energy and competition-driven** — I love the pressure of live red team exercises, breaking into systems before the bad guys do, and collaborating with brilliant teammates under tight deadlines. Fast-paced environments are where I thrive.
 
-When I'm not coding or analyzing data, you'll find me:
-- Leading workshops and empowering fellow students
-- Learning new technologies and frameworks
-- Travelling 
+When I'm not in a CTF or pentesting something:
+- 🏁 Training for the next national competition
+- 🔍 Digging into new vulnerabilities and techniques
+- 🧋 Probably trying out new cafes 
 
 ---
 
 ## 📬 Let's Connect!
-
-I'm always excited to connect with fellow developers, researchers, and anyone passionate about technology!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsnehasiri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehasiri)
 
 ---
 
-##  I'm Looking For...
+## 👀 I'm Looking For...
 
--  **SWE Internship Opportunities** 
--  **Technical Team Building** - Love working with diverse, passionate teams
--  **Tech Conversations** - Always down to discuss the latest in software engineering, data science, or research
-
-
+- 🔴 **Cybersecurity Internships** — offensive security, pentesting, or security engineering
+- 🤝 **CTF Collaborations** — always down to team up
+- 💬 **Tech Conversations** — vulnerabilities, red teaming, ML security, anything goes
 
 ---
 
