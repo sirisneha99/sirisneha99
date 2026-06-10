@@ -8,12 +8,9 @@ Welcome to my GitHub! I'm a red team member of USF CyberHerd — competing in na
 
 ## 🔥 What I'm Up To
 
-**Active Competitions**: Competing with USF CyberHerd in **NCAE Cybergames** (National Center for Academic Excellence) and **SEC** (Social Engineering Competition). CyberHerd placed **1st at DEF CON 33 CTF** and **2nd at NCAE Cybergames Southeast Regionals**.
+**Active Competitions**: Competing with USF CyberHerd in **NCAE Cybergames** (National Center for Academic Excellence) and **SEC** (Social Engineering Competition).
 
 **Research**: Previously preprocessed 10,000+ patient records across CLSA, All of Us, and BLSA datasets at USF's Robotics Perception & Action Lab, building ML pipelines for healthy aging research.
-
-**Goal**: Seeking **cybersecurity internship opportunities** in offensive security, penetration testing, or security engineering.
-
 ---
 
 ## 🏆 Highlights
